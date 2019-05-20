@@ -13,5 +13,5 @@ mvn clean test -Dbrowser=chrome
  * proxy could be defined: -Dproxy="http://proxyUrl:proxyPort"
  * tested on Chrome 74. To use higher or lower Chrome version, please, download appropriate driver http://chromedriver.chromium.org/downloads and point access to it via: -Ddriver.path.value="path to Chromedriver"
  
-### Reports: 
+### Report: 
 target/surefire-reports/html/index.html
