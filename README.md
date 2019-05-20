@@ -1,9 +1,10 @@
 # socialtech-demo
 
 Pre-requisites:
-* Java8
+* java 8
 * maven
 * git clone https://github.com/maxski/socialtech-demo.git
+* cd socialtech-demo
 
 Basic run: mvn clean test -Dbrowser=chrome
 
